@@ -1,5 +1,14 @@
+*{
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
 h1 {
   margin-bottom: 30px;
+}
+tr {
+  vertical-align: middle;
+}
+th {
+  align-content: center;
 }
 input[type="text"] {
   width: 200px;
